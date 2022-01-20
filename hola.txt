@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello world
 Hola, como estas?
+=======
+Hello world, this is a new text asdf
+>>>>>>> 3b00a9f67436e757e4f774b94b1d6773506d7601
